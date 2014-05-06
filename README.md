@@ -23,8 +23,9 @@ The crawler will then create a file called <b>sitemap.pdf</b> in the same direct
 Requirements
 ------------
 Python 2.7
-BeautifuSoup (as the bs4 module) for HTML tidy
-NetworkX (as the networkx module) for a graph data structure
-MatPlotLib (as the matplotlib module) for drawing to an image
-Requests (as the requests module) for easy network requests
-Mock (as the mock module) for unit test mocking.
+
+BeautifuSoup (as the bs4 module) for HTML tidy  
+NetworkX (as the networkx module) for a graph data structure  
+MatPlotLib (as the matplotlib module) for drawing to an image  
+Requests (as the requests module) for easy network requests  
+Mock (as the mock module) for unit test mocking  
