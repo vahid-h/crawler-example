@@ -52,3 +52,11 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# ignore Jetbrains IDEs
+.idea
+
+# ignore vim
+*.sw[po]
+
+# ignore generated sitemap
+sitemap.pdf
